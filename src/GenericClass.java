@@ -18,4 +18,5 @@ public class GenericClass<T> {
     public T getSecond() {
         return this.second;
     }
+
 }
